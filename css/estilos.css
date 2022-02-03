@@ -1,0 +1,136 @@
+
+body
+{
+	background: #c6a59d;
+	font-family: arial;
+
+}
+.container
+
+{
+	background: white;
+	border-radius: 20px;
+	width: 960px;
+	margin: auto;
+}
+
+.header
+{}
+
+.header img
+{ 
+	height:75px;
+	border-radius: 25px;
+}
+
+.menu
+{
+	float:right;
+}
+
+.menu li
+{
+	display:inline-block;
+	margin-left:10px;
+}
+
+.menu a
+{
+text-decoration: none;
+	color:#ff767c;
+	padding:5px;
+}
+
+.menu a:hover{
+	border:2px solid #93767c;
+}
+
+.top
+{
+	
+}
+
+
+.top a:hover
+{	
+	background:#33767c;
+	border-radius: 20px;
+
+}
+
+.slider img
+{ 
+width:960px;
+}
+
+
+.row
+{
+	
+	text-align: center;
+	background: #33767c;
+	padding:5px;
+}
+
+
+
+.col
+{
+	display:inline-block;
+	width: 260px;
+	padding:20px;
+}
+
+.col h2
+{
+	display:inline-block;
+	width: 150px;
+	padding:5px;
+}
+
+.col p
+{
+	
+}
+.row2
+{
+	
+	text-align: center;
+	background: #33767c;
+	padding:5px;
+}
+.article 
+{
+width:450px;
+display: inline-block;
+	padding:20px;
+	background:#87a59d;
+}
+.article p
+{
+color: white;
+	font-size: 14px;
+	
+}
+
+#lateral
+{
+	width: 150px;
+	height:150px;
+	border-radius: 150px;
+}
+
+.footer
+{
+	overflow:hidden;
+}
+
+.footer a
+{
+	
+}
+
+.footer span
+{
+	
+}
